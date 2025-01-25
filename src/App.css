@@ -1,0 +1,99 @@
+
+
+.login-info-btn{
+    color: #9b3046;
+    background-color:#fff;
+    border: 1px solid #9b3046;
+}
+.login-info-btn:hover{
+    color: #fff;
+    background-color:#9b3046;
+}
+.btn:focus-visible {
+    color: #fff;
+    background-color: #9b3046; 
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(156, 48, 70, 0.25) !important;
+}
+.login-info-forgot-pass{
+    color: #9b3046;
+    text-decoration: none;
+}
+.signup-info{
+    color: #9b3046;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.form-check-input:checked{
+    background-color: #9b3046;
+    border-color: #9b3046;
+}
+.form-check-input:focus {
+    border-color: #fd90a6;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(156, 48, 70, 0.25) !important;
+}
+
+
+
+.otp-field {
+    flex-direction: row;
+    column-gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .otp-field input {
+    height: 45px;
+    width: 42px;
+    border-radius: 6px;
+    outline: none;
+    font-size: 1.125rem;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  .otp-field input:focus {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  }
+  .otp-field input::-webkit-inner-spin-button,
+  .otp-field input::-webkit-outer-spin-button {
+    display: none;
+  }
+  .Generate-otp-btn{
+      position: absolute;
+      right: 0;
+      top: 4px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: #fff1f4;
+      font-size: 14px;
+      color: #9b3046;
+      border: none;
+      outline: none;
+      margin-top: 34px;
+      margin-right: 6px;
+  }
+  .Generate-otp-btn:hover {
+      color:  #fff1f4;
+      background: #9b3046;
+   outline: none;
+  }
+  
+  .resend {
+    font-size: 12px;
+  }
+  .input-otp-email-info {
+    position: relative;
+}
+
+
+.login-Verify-info-btn {
+    background-color: #fff;
+    border: 1px solid #9b3046;
+    color: #9b3046;
+    text-align: center;
+    padding: 6px 0px 6px 0px;
+    border-radius: 5px;
+    text-decoration: none;
+}
