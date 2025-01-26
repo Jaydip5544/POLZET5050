@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/POLZET5050/static/css/main.7efde049.css",
-    "main.js": "/POLZET5050/static/js/main.b30d1c33.js",
+    "main.css": "/POLZET5050/static/css/main.09640e01.css",
+    "main.js": "/POLZET5050/static/js/main.1681031d.js",
     "index.html": "/POLZET5050/index.html",
-    "main.7efde049.css.map": "/POLZET5050/static/css/main.7efde049.css.map",
-    "main.b30d1c33.js.map": "/POLZET5050/static/js/main.b30d1c33.js.map"
+    "main.09640e01.css.map": "/POLZET5050/static/css/main.09640e01.css.map",
+    "main.1681031d.js.map": "/POLZET5050/static/js/main.1681031d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7efde049.css",
-    "static/js/main.b30d1c33.js"
+    "static/css/main.09640e01.css",
+    "static/js/main.1681031d.js"
   ]
 }
